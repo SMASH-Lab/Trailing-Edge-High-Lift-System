@@ -1,0 +1,14 @@
+#number_of_inputs
+1
+#number_of_outputs
+5
+#input_variables
+dummy_force
+#output_variables
+Link
+Z
+Y
+X
+DA
+#model_name
+C:\test_FRA\Motion_Models\simulations_27_Sept_Cosim\KinConfig_HoTr_kin\KinConfig_HoTr_kin.LMSMotionSolverInput

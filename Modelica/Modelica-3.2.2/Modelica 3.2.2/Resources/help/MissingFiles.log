@@ -1,0 +1,132 @@
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.AutomaticSeed.html]:
+Not found: Modelica.Blocks.Noise.UniformNoise
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.NormalNoiseProperties.html]:
+Not found: Modelica.Blocks.Statistics.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.UniformNoiseProperties.html]:
+Not found: Modelica.Blocks.Noise.GenericNoise.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.UniformNoiseProperties.html]:
+Not found: Modelica.Blocks.Statistics.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.Utilities.NormalDensity.html]:
+Not found: Modelica.Math.Distributions.Normal.density
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.Utilities.UniformDensity.html]:
+Not found: Modelica.Math.Distributions.Uniform.density
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Examples.NoiseExamples.Utilities.WeibullDensity.html]:
+Not found: Modelica.Math.Distributions.Weibull.density
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.ContinuousMean.html]:
+Not found: Blocks.Noise
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.ContinuousMean.html]:
+Not found: Modelica.Blocks.Math.Mean
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.ContinuousMean.html]:
+Not found: Modelica.Blocks.Examples.NoiseExamples.WeibullNoiseProperties.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.StandardDeviation.html]:
+Not found: Modelica.Blocks.Statistics.Variance.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.StandardDeviation.html]:
+Not found: Modelica.Blocks.Examples.NoiseExamples.WeibullNoiseProperties.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Math.Variance.html]:
+Not found: Modelica.Blocks.Examples.NoiseExamples.WeibullNoiseProperties.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.BandLimitedWhiteNoise.html]:
+Not found: Modelica.Blocks.Examples.NoiseExamples.DrydenContinuousTurbulence
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.NormalNoise.html]:
+Not found: .Modelica.Blocks.Examples.NoiseExamples.NormalNoiseProperties.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.html]:
+Not found: Modelica.Blocks.Noise.GlobalSeed
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.html]:
+Not found: Modelica.Math.Random.Generators
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.html]:
+Not found: Modelica.Math.Random.Generators
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Blocks.Noise.html]:
+Not found: Modelica.Math.Distributions
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.Machines.UsersGuide.ReleaseNotes.html]:
+Not found: Modelica.Electrical.Machines.Utilities.SwitchedRheostat%3ESwitchedRheostat%3C.html/a%3E,%3Ca href=
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.Machines.Utilities.FromDQ.html]:
+Not found: Modelica.Electrical.Machines.Utilities.FToDQ.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.Thyristor1Pulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.Rectifier1Pulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.ThyristorBridge2Pulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.ThyristorBridge2mPulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.ThyristorCenterTap2Pulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierCenterTap2Pulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.ThyristorCenterTap2mPulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierCenterTap2mPulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.ExampleTemplates.ThyristorCenterTapmPulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierCenterTapmPulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.HalfControlledBridge2Pulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_R
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_R.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.HalfControlledBridge2Pulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse.HalfControlledBridge2mPulse.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse.ThyristorBridge2mPulse_R
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse.ThyristorBridge2mPulse_R.html]:
+Not found: Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse.HalfControlledBridge2mPulse
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Examples.DCAC.MultiPhaseTwoLevel.MultiPhaseTwoLevel_R.html]:
+Not found: Modelica_Electrical_PowerConverters.Examples.DCAC.MultiPhaseTwoLevel.MultiPhaseTwoLevel_RL
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Interfaces.Enable.Enable.html]:
+Not found: Modelica.Electrical.PowerConverters.Interfaces.Enable1.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Interfaces.Enable.Enable.html]:
+Not found: Modelica.Electrical.PowerConverters.Interfaces.Enable2.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Interfaces.Enable.Enable.html]:
+Not found: Modelica.Electrical.PowerConverters.Interfaces.Enable1m.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.PowerConverters.Interfaces.Enable.Enable.html]:
+Not found: Modelica.Electrical.PowerConverters.Interfaces.Enable2m.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Electrical.QuasiStationary.MultiPhase.Basic.Impedance.html]:
+Not found: Modelica.Electrical.QuasiStationary.SinglePhase.Basic.Inductance.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.Basic.ElectroMagneticConverterWithLeakageInductance.html]:
+Not found: FluxTubes.Basic.ElectroMagneticConverter
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.Interfaces.PartialGenericHysteresisTellinen.html]:
+Not found: HysteresisTest.html/pics/tellinen01.png
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.Material.HysteresisEverettParameter.html]:
+Not found: Modelica.Magnetic.FluxTubes.Shapes.GenericHystTellinenEverett.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.Material.HysteresisEverettParameter.html]:
+Not found: Modelica.Magnetic.FluxTubes.Shapes.GenericHystPreisachEverett.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.UsersGuide.Hysteresis.DynamicHysteresis.html]:
+Not found: FluxTubes.Shapes.HysteresisAndMagnets
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.UsersGuide.Hysteresis.DynamicHysteresis.html]:
+Not found: FluxTubes.Shapes.HysteresisAndMagnets.GenericHystTellinenTable
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.FluxTubes.UsersGuide.Hysteresis.HysteresisLosses.html]:
+Not found: Modelica.Magnetic.FluxTubes.Examples.Hysteresis.TransformerWithHysteresis.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.Components.RotorSaliencyAirGap.html]:
+Not found: Modelica.Magnetic.QuasiStatic.FundamentalWave.UsersGuide.Concept
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.Components.SymmetricMultiPhaseWinding.html]:
+Not found: Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.Components.QuasiStionaryAnalogWinding.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.InductionMachines.IM_SlipRing.html]:
+Not found: Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.InductionMachines.IM_SquirrelCage
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.InductionMachines.IM_SquirrelCage.html]:
+Not found: Modelica.Magnetic.QuasiStatic.FundamentalWave.BasicMachines.InductionMachines.IM_SlipRing
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.Components.EddyCurrent.html]:
+Not found: ../../../Modelica 3.2.2/Resources/Images/Magnetic/FundamentalWave/Components/vPhi
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.Components.EddyCurrent.html]:
+Not found: ../../../Modelica 3.2.2/Resources/Images/Magnetic/FundamentalWave/v_k
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Magnetic.QuasiStatic.FundamentalWave.Components.EddyCurrent.html]:
+Not found: ../../../Modelica 3.2.2/Resources/Images/Magnetic/FundamentalWave/i_k
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.FastFourierTransform.Examples.RealFFT2.html]:
+Not found: Modelica.Math.FastFourierTransform.Examples.RealFFT1
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.Random.Examples.GenerateRandomNumbers.html]:
+Not found: Modelica.Math.Random.Generators
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.Random.Generators.html]:
+Not found: Modelica.Blocks.Noise
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.Random.Generators.html]:
+Not found: Modelica.Blocks.Noise
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.Random.Generators.html]:
+Not found: Modelica.Math.Random.Utilities.impureRandom
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Math.Random.Generators.html]:
+Not found: Modelica.Blocks.Noise.GlobalSeed.random.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Mechanics.MultiBody.Examples.Elementary.Utilities.sineSurface.html]:
+Not found: Modelica.Mechanics.MultiBody.Examples.Elementary.Surfaces
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.GearConstraint.html]:
+Not found: Modelica.Mechanics.MultiBody.Joints.GearConstraint
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Media.Air.MoistAir.PsychrometricData.html
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: ../../../Modelica 3.2.2/Resources/C-sources/_readme.txt
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Magnetic.FluxTubes.UsersGuide.Hysteresis
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Magnetic.FluxTubes.Examples.Hysteresis
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Magnetic.FluxTubes.Shapes.HysteresisAndMagnets
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Magnetic.FluxTubes.Material.HysteresisEverettParameter
+[Checking file /tmp/MSLrelease/Modelica_3.2.2+build.3/Modelica 3.2.2/Resources/help/Modelica.UsersGuide.ReleaseNotes.Version_3_2_2.html]:
+Not found: Modelica.Magnetic.FluxTubes.Material.HysteresisTableData
